@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/3/24 22:02:57。
+     1>项目“C:\Users\wen\Desktop\数据结构代码\05-Binary-Search-Tree\01-Binary-Search\01-Binary-Search.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\software\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\wen\desktop\数据结构代码\05-binary-search-tree\01-binary-search\main.cpp(40): warning C4715: “__binarySearch2<int>”: 不是所有的控件路径都返回值
+       Link:
+         F:\software\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\wen\Desktop\数据结构代码\05-Binary-Search-Tree\Debug\01-Binary-Search.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\wen\Desktop\数据结构代码\05-Binary-Search-Tree\Debug\01-Binary-Search.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\wen\Desktop\数据结构代码\05-Binary-Search-Tree\Debug\01-Binary-Search.lib" /MACHINE:X86 Debug\main.obj
+         01-Binary-Search.vcxproj -> C:\Users\wen\Desktop\数据结构代码\05-Binary-Search-Tree\Debug\01-Binary-Search.exe
+     1>已完成生成项目“C:\Users\wen\Desktop\数据结构代码\05-Binary-Search-Tree\01-Binary-Search\01-Binary-Search.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.11
